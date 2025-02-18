@@ -8,7 +8,8 @@ The projects are categorized by platform:
  
 
 ## 📂 Android  
-- ✈️  - 2025/02/16 -  **TapTappy Plane**  -  
+- 🚀  - 2025/02/17 -  **Space Survivor** 
+- ✈️  - 2025/02/16 -  **TapTappy Plane** 
 - 🏆  - 2025/02/16 -  **My First Mobile Game**   
 
 ## 📂 iOS  
